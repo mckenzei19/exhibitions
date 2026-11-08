@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Exhibition Countdown//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Tate exhibitions
+BEGIN:VEVENT
+UID:tm-frida-close@exhibition-countdown
+DTSTAMP:20261108T092500Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20270104
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Closes Sun 3 Jan 2027. Runs 25 Jun 2026 to 3 Jan 2027. Free for Members.\nhttps://www.tate.org.uk/whats-on/tate-modern
+URL:https://www.tate.org.uk/whats-on/tate-modern
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfway point: Frida: The Making of an Icon closes 3 Jan
+TRIGGER;VALUE=DATE-TIME:20260929T090000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 weeks left: Frida: The Making of an Icon closes 3 Jan
+TRIGGER;VALUE=DATE-TIME:20261213T090000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-close@exhibition-countdown
+DTSTAMP:20261108T092500Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20270118
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Closes Sun 17 Jan 2027. Runs 15 Jul 2026 to 17 Jan 2027. Free for Members.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfway point: Ana Mendieta closes 17 Jan
+TRIGGER;VALUE=DATE-TIME:20261016T090000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 weeks left: Ana Mendieta closes 17 Jan
+TRIGGER;VALUE=DATE-TIME:20261227T090000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-close@exhibition-countdown
+DTSTAMP:20261108T092500Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270215
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Closes Sun 14 Feb 2027. Runs 8 Oct 2026 to 14 Feb 2027. Free for Members.\nhttps://www.tate.org.uk/whats-on/tate-britain
+URL:https://www.tate.org.uk/whats-on/tate-britain
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfway point: The 90s closes 14 Feb
+TRIGGER;VALUE=DATE-TIME:20261211T090000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 weeks left: The 90s closes 14 Feb
+TRIGGER;VALUE=DATE-TIME:20270124T090000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-close@exhibition-countdown
+DTSTAMP:20261108T092500Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20270222
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Closes Sun 21 Feb 2027. Runs 14 Oct 2026 to 21 Feb 2027. Free for Members.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfway point: Light and Magic: The Birth of Art Photography closes 21 Feb
+TRIGGER;VALUE=DATE-TIME:20261218T090000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 weeks left: Light and Magic: The Birth of Art Photography closes 21 Feb
+TRIGGER;VALUE=DATE-TIME:20270131T090000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-close@exhibition-countdown
+DTSTAMP:20261108T092500Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20270412
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Closes Sun 11 Apr 2027. Runs 12 Nov 2026 to 11 Apr 2027. Free for Members.\nhttps://www.tate.org.uk/whats-on/tate-britain
+URL:https://www.tate.org.uk/whats-on/tate-britain
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfway point: Vanessa Bell & Duncan Grant closes 11 Apr
+TRIGGER;VALUE=DATE-TIME:20270126T090000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 weeks left: Vanessa Bell & Duncan Grant closes 11 Apr
+TRIGGER;VALUE=DATE-TIME:20270321T090000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-close@exhibition-countdown
+DTSTAMP:20261108T092500Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20270504
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Closes Mon 3 May 2027. Runs 11 Jun 2026 to 3 May 2027. Free for Members.\nhttps://www.tate.org.uk/whats-on/tate-modern
+URL:https://www.tate.org.uk/whats-on/tate-modern
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Halfway point: Julio Le Parc: Light. Colour. Action. closes 3 May
+TRIGGER;VALUE=DATE-TIME:20261121T090000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 weeks left: Julio Le Parc: Light. Colour. Action. closes 3 May
+TRIGGER;VALUE=DATE-TIME:20270412T090000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tm-frida-light@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20261114T090000Z
+DTEND:20261114T100000Z
+RRULE:FREQ=WEEKLY;BYDAY=SA,SU;UNTIL=20270103T235959Z
+EXDATE:20261226T090000Z
+SUMMARY:Members Hours: Frida + Light and Magic (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Members only. No booking - just bring your card.\nBoth Frida and Light and Magic have Members Hours every weekend until 3 Jan (not 26 Dec).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tb-20261114@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20261114T090000Z
+DTEND:20261114T100000Z
+SUMMARY:Members Hours: The 90s + Bell & Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Members only. No booking - just bring your card.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tb-20261115@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20261115T090000Z
+DTEND:20261115T100000Z
+SUMMARY:Members Hours: The 90s + Bell & Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Members only. No booking - just bring your card.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tb-20261121@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20261121T090000Z
+DTEND:20261121T100000Z
+SUMMARY:Members Hours: The 90s + Bell & Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Members only. No booking - just bring your card.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tb-20261122@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20261122T090000Z
+DTEND:20261122T100000Z
+SUMMARY:Members Hours: The 90s + Bell & Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Members only. No booking - just bring your card.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tb-20270213@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20270213T090000Z
+DTEND:20270213T100000Z
+SUMMARY:Members Hours: Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Members only. No booking - just bring your card.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-tb-20270214@exhibition-countdown
+DTSTAMP:20261108T092749Z
+DTSTART:20270214T090000Z
+DTEND:20270214T100000Z
+SUMMARY:Members Hours: Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Members only. No booking - just bring your card.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
