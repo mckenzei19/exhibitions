@@ -1,6 +1,6 @@
 # Exhibitions calendar
 
-Calendar feed of paid exhibitions at Tate Modern and Tate Britain, with
+Calendar feed of paid exhibitions (shown from the halfway point to closing) at Tate Modern and Tate Britain, with
 halfway and three-weeks-left alerts and Members Hours. Updated weekly.
 
 **Subscribe on iPhone:** Settings → Calendar → Accounts → Add Account → Other →

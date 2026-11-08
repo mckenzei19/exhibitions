@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build tate.ics from exhibitions.json (Tate) and additions.json (shows added on the tracker page).
 
-Each exhibition: one all-day event across its run, with alerts at 09:00 on the halfway day
+Each exhibition: one all-day event covering the second half of its run (halfway day to closing day), with alerts at 09:00 on the halfway day
 and 21 days before closing. Each Members Hours session: a timed event.
 Times are written in Europe/London so BST is handled.
 """
@@ -35,10 +35,10 @@ def main():
         titles[e["id"]] = e["title"]
         mid = a + timedelta((b - a).days // 2)
         L += ["BEGIN:VEVENT", f"UID:{e['id']}-close@exhibition-countdown", f"DTSTAMP:{stamp}",
-              f"DTSTART;VALUE=DATE:{a:%Y%m%d}", f"DTEND;VALUE=DATE:{b+timedelta(1):%Y%m%d}",
+              f"DTSTART;VALUE=DATE:{mid:%Y%m%d}", f"DTEND;VALUE=DATE:{b+timedelta(1):%Y%m%d}",
               "SUMMARY:"+esc(f"{e['title']} ({e['venue']})"),
               "LOCATION:"+esc(ADDR.get(e["venue"], e["venue"])),
-              "DESCRIPTION:"+esc(f"Closes {b:%a %-d %b %Y}. Runs {a:%-d %b %Y} to {b:%-d %b %Y}." + (f"\n{e['url']}" if e.get("url") else "")),
+              "DESCRIPTION:"+esc(f"Second half of the run. Closes {b:%a %-d %b %Y}. Full run {a:%-d %b %Y} to {b:%-d %b %Y}." + (f"\n{e['url']}" if e.get("url") else "")),
               *( [f"URL:{e['url']}"] if e.get("url") else [] ),
               "TRANSP:TRANSPARENT",
               *alarm(mid, f"Halfway point: {e['title']} closes {b:%-d %b}"),
