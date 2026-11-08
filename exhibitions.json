@@ -1,0 +1,264 @@
+{
+  "checked": "2026-11-08",
+  "scope": "Paid exhibitions at Tate Modern and Tate Britain only; free displays and commissions excluded.",
+  "exhibitions": [
+    {
+      "id": "tm-frida",
+      "title": "Frida: The Making of an Icon",
+      "venue": "Tate Modern",
+      "start": "2026-06-25",
+      "end": "2027-01-03",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon"
+    },
+    {
+      "id": "tm-mendieta",
+      "title": "Ana Mendieta",
+      "venue": "Tate Modern",
+      "start": "2026-07-15",
+      "end": "2027-01-17",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta"
+    },
+    {
+      "id": "tb-90s",
+      "title": "The 90s",
+      "venue": "Tate Britain",
+      "start": "2026-10-08",
+      "end": "2027-02-14",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s"
+    },
+    {
+      "id": "tm-light",
+      "title": "Light and Magic: The Birth of Art Photography",
+      "venue": "Tate Modern",
+      "start": "2026-10-14",
+      "end": "2027-02-21",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic"
+    },
+    {
+      "id": "tb-bellgrant",
+      "title": "Vanessa Bell & Duncan Grant",
+      "venue": "Tate Britain",
+      "start": "2026-11-12",
+      "end": "2027-04-11",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant"
+    },
+    {
+      "id": "tm-leparc",
+      "title": "Julio Le Parc: Light. Colour. Action.",
+      "venue": "Tate Modern",
+      "start": "2026-06-11",
+      "end": "2027-05-03",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    }
+  ],
+  "members_hours": [
+    {
+      "date": "2026-11-14",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-90s",
+        "tb-bellgrant"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-90s",
+        "tb-bellgrant"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-90s",
+        "tb-bellgrant"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-90s",
+        "tb-bellgrant"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2026-12-27",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2027-01-03",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-frida",
+        "tm-light"
+      ]
+    },
+    {
+      "date": "2027-02-13",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-bellgrant"
+      ]
+    },
+    {
+      "date": "2027-02-14",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-bellgrant"
+      ]
+    }
+  ]
+}
