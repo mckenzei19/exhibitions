@@ -24,13 +24,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:tm-frida-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20270104
+UID:tm-frida-20261003@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261003T100000
+DTEND;TZID=Europe/London:20261003T210000
 SUMMARY:Frida: The Making of an Icon (Tate Modern)
 LOCATION:Tate Modern\, Bankside\, London SE1 9TG
-DESCRIPTION:Second half of the run. Closes Sun 3 Jan 2027. Full run 25 Jun 2026 to 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
 URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -38,6 +38,237 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: Frida: The Making of an Icon closes 3 Jan
 TRIGGER;VALUE=DATE-TIME:20260929T080000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261004@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261004T100000
+DTEND;TZID=Europe/London:20261004T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261010@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261010T100000
+DTEND;TZID=Europe/London:20261010T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261011@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261011T100000
+DTEND;TZID=Europe/London:20261011T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261017@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261017T100000
+DTEND;TZID=Europe/London:20261017T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261018@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261018T100000
+DTEND;TZID=Europe/London:20261018T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261024@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261024T100000
+DTEND;TZID=Europe/London:20261024T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261025@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261025T100000
+DTEND;TZID=Europe/London:20261025T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261031@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261031T100000
+DTEND;TZID=Europe/London:20261031T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261101@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261101T100000
+DTEND;TZID=Europe/London:20261101T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261107@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261107T100000
+DTEND;TZID=Europe/London:20261107T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261108@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261108T100000
+DTEND;TZID=Europe/London:20261108T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261114@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261114T100000
+DTEND;TZID=Europe/London:20261114T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261115@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261115T100000
+DTEND;TZID=Europe/London:20261115T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261121@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261121T100000
+DTEND;TZID=Europe/London:20261121T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261122@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261122T100000
+DTEND;TZID=Europe/London:20261122T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261128@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261128T100000
+DTEND;TZID=Europe/London:20261128T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261129@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261129T100000
+DTEND;TZID=Europe/London:20261129T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261205@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261205T100000
+DTEND;TZID=Europe/London:20261205T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261206T100000
+DTEND;TZID=Europe/London:20261206T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261212@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261212T100000
+DTEND;TZID=Europe/London:20261212T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261213T100000
+DTEND;TZID=Europe/London:20261213T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: Frida: The Making of an Icon closes 3 Jan
@@ -45,13 +276,68 @@ TRIGGER;VALUE=DATE-TIME:20261213T090000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-mendieta-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20270118
+UID:tm-frida-20261219@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261219T100000
+DTEND;TZID=Europe/London:20261219T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261220T100000
+DTEND;TZID=Europe/London:20261220T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20261227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261227T100000
+DTEND;TZID=Europe/London:20261227T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20270102@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270102T100000
+DTEND;TZID=Europe/London:20270102T210000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 3 Jan 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-frida-20270103@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T180000
+SUMMARY:Frida: The Making of an Icon (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 3 Jan 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261017@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261017T100000
+DTEND;TZID=Europe/London:20261017T210000
 SUMMARY:Ana Mendieta (Tate Modern)
 LOCATION:Tate Modern\, Bankside\, London SE1 9TG
-DESCRIPTION:Second half of the run. Closes Sun 17 Jan 2027. Full run 15 Jul 2026 to 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
 URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -59,6 +345,226 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: Ana Mendieta closes 17 Jan
 TRIGGER;VALUE=DATE-TIME:20261016T080000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261018@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261018T100000
+DTEND;TZID=Europe/London:20261018T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261024@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261024T100000
+DTEND;TZID=Europe/London:20261024T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261025@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261025T100000
+DTEND;TZID=Europe/London:20261025T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261031@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261031T100000
+DTEND;TZID=Europe/London:20261031T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261101@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261101T100000
+DTEND;TZID=Europe/London:20261101T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261107@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261107T100000
+DTEND;TZID=Europe/London:20261107T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261108@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261108T100000
+DTEND;TZID=Europe/London:20261108T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261114@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261114T100000
+DTEND;TZID=Europe/London:20261114T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261115@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261115T100000
+DTEND;TZID=Europe/London:20261115T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261121@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261121T100000
+DTEND;TZID=Europe/London:20261121T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261122@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261122T100000
+DTEND;TZID=Europe/London:20261122T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261128@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261128T100000
+DTEND;TZID=Europe/London:20261128T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261129@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261129T100000
+DTEND;TZID=Europe/London:20261129T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261205@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261205T100000
+DTEND;TZID=Europe/London:20261205T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261206T100000
+DTEND;TZID=Europe/London:20261206T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261212@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261212T100000
+DTEND;TZID=Europe/London:20261212T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261213T100000
+DTEND;TZID=Europe/London:20261213T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261219@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261219T100000
+DTEND;TZID=Europe/London:20261219T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261220T100000
+DTEND;TZID=Europe/London:20261220T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20261227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261227T100000
+DTEND;TZID=Europe/London:20261227T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: Ana Mendieta closes 17 Jan
@@ -66,13 +572,79 @@ TRIGGER;VALUE=DATE-TIME:20261227T090000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tb-90s-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20270215
+UID:tm-mendieta-20270102@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270102T100000
+DTEND;TZID=Europe/London:20270102T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20270103@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20270109@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270109T100000
+DTEND;TZID=Europe/London:20270109T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20270110@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270110T100000
+DTEND;TZID=Europe/London:20270110T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20270116@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270116T100000
+DTEND;TZID=Europe/London:20270116T210000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 17 Jan 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-mendieta-20270117@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270117T100000
+DTEND;TZID=Europe/London:20270117T180000
+SUMMARY:Ana Mendieta (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 17 Jan 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+URL:https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20261212@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261212T100000
+DTEND;TZID=Europe/London:20261212T180000
 SUMMARY:The 90s (Tate Britain)
 LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
-DESCRIPTION:Second half of the run. Closes Sun 14 Feb 2027. Full run 8 Oct 2026 to 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
 URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -80,6 +652,138 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: The 90s closes 14 Feb
 TRIGGER;VALUE=DATE-TIME:20261211T090000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20261213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261213T100000
+DTEND;TZID=Europe/London:20261213T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20261219@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261219T100000
+DTEND;TZID=Europe/London:20261219T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20261220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261220T100000
+DTEND;TZID=Europe/London:20261220T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20261227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261227T100000
+DTEND;TZID=Europe/London:20261227T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270102@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270102T100000
+DTEND;TZID=Europe/London:20270102T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270103@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270109@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270109T100000
+DTEND;TZID=Europe/London:20270109T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270110@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270110T100000
+DTEND;TZID=Europe/London:20270110T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270116@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270116T100000
+DTEND;TZID=Europe/London:20270116T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270117@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270117T100000
+DTEND;TZID=Europe/London:20270117T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270123@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270123T100000
+DTEND;TZID=Europe/London:20270123T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270124@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270124T100000
+DTEND;TZID=Europe/London:20270124T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: The 90s closes 14 Feb
@@ -87,13 +791,79 @@ TRIGGER;VALUE=DATE-TIME:20270124T090000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-light-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20270222
+UID:tb-90s-20270130@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270130T100000
+DTEND;TZID=Europe/London:20270130T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270131@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270131T100000
+DTEND;TZID=Europe/London:20270131T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270206T100000
+DTEND;TZID=Europe/London:20270206T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270207@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270207T100000
+DTEND;TZID=Europe/London:20270207T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270213T100000
+DTEND;TZID=Europe/London:20270213T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-90s-20270214@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270214T100000
+DTEND;TZID=Europe/London:20270214T180000
+SUMMARY:The 90s (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 14 Feb 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-britain/the-90s
+URL:https://www.tate.org.uk/whats-on/tate-britain/the-90s
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20261219@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261219T100000
+DTEND;TZID=Europe/London:20261219T210000
 SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
 LOCATION:Tate Modern\, Bankside\, London SE1 9TG
-DESCRIPTION:Second half of the run. Closes Sun 21 Feb 2027. Full run 14 Oct 2026 to 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
 URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -101,6 +871,138 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: Light and Magic: The Birth of Art Photography closes 21 Feb
 TRIGGER;VALUE=DATE-TIME:20261218T090000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20261220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261220T100000
+DTEND;TZID=Europe/London:20261220T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20261227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261227T100000
+DTEND;TZID=Europe/London:20261227T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270102@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270102T100000
+DTEND;TZID=Europe/London:20270102T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270103@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270109@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270109T100000
+DTEND;TZID=Europe/London:20270109T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270110@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270110T100000
+DTEND;TZID=Europe/London:20270110T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270116@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270116T100000
+DTEND;TZID=Europe/London:20270116T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270117@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270117T100000
+DTEND;TZID=Europe/London:20270117T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270123@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270123T100000
+DTEND;TZID=Europe/London:20270123T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270124@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270124T100000
+DTEND;TZID=Europe/London:20270124T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270130@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270130T100000
+DTEND;TZID=Europe/London:20270130T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270131@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270131T100000
+DTEND;TZID=Europe/London:20270131T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: Light and Magic: The Birth of Art Photography closes 21 Feb
@@ -108,13 +1010,79 @@ TRIGGER;VALUE=DATE-TIME:20270131T090000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tb-bellgrant-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270412
+UID:tm-light-20270206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270206T100000
+DTEND;TZID=Europe/London:20270206T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270207@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270207T100000
+DTEND;TZID=Europe/London:20270207T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270213T100000
+DTEND;TZID=Europe/London:20270213T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270214@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270214T100000
+DTEND;TZID=Europe/London:20270214T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270220T100000
+DTEND;TZID=Europe/London:20270220T210000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Sun 21 Feb 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-light-20270221@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270221T100000
+DTEND;TZID=Europe/London:20270221T180000
+SUMMARY:Light and Magic: The Birth of Art Photography (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 21 Feb 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+URL:https://www.tate.org.uk/whats-on/tate-modern/light-and-magic
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270130@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270130T100000
+DTEND;TZID=Europe/London:20270130T180000
 SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
 LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
-DESCRIPTION:Second half of the run. Closes Sun 11 Apr 2027. Full run 12 Nov 2026 to 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
 URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -122,6 +1090,171 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: Vanessa Bell & Duncan Grant closes 11 Apr
 TRIGGER;VALUE=DATE-TIME:20270126T090000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270131@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270131T100000
+DTEND;TZID=Europe/London:20270131T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270206T100000
+DTEND;TZID=Europe/London:20270206T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270207@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270207T100000
+DTEND;TZID=Europe/London:20270207T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270213T100000
+DTEND;TZID=Europe/London:20270213T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270214@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270214T100000
+DTEND;TZID=Europe/London:20270214T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270220T100000
+DTEND;TZID=Europe/London:20270220T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270221@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270221T100000
+DTEND;TZID=Europe/London:20270221T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270227T100000
+DTEND;TZID=Europe/London:20270227T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270228@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270228T100000
+DTEND;TZID=Europe/London:20270228T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270306@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270306T100000
+DTEND;TZID=Europe/London:20270306T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270307@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270307T100000
+DTEND;TZID=Europe/London:20270307T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270313@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270313T100000
+DTEND;TZID=Europe/London:20270313T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270314@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270314T100000
+DTEND;TZID=Europe/London:20270314T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270320@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270320T100000
+DTEND;TZID=Europe/London:20270320T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270321@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270321T100000
+DTEND;TZID=Europe/London:20270321T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: Vanessa Bell & Duncan Grant closes 11 Apr
@@ -129,13 +1262,79 @@ TRIGGER;VALUE=DATE-TIME:20270321T090000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-leparc-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20270504
+UID:tb-bellgrant-20270327@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270327T100000
+DTEND;TZID=Europe/London:20270327T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270328@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270328T100000
+DTEND;TZID=Europe/London:20270328T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270403@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270403T100000
+DTEND;TZID=Europe/London:20270403T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270404@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270404T100000
+DTEND;TZID=Europe/London:20270404T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270410@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270410T100000
+DTEND;TZID=Europe/London:20270410T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tb-bellgrant-20270411@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270411T100000
+DTEND;TZID=Europe/London:20270411T180000
+SUMMARY:Vanessa Bell & Duncan Grant (Tate Britain)
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG
+DESCRIPTION:Open 10:00-18:00. Closes Sun 11 Apr 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+URL:https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261121@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261121T100000
+DTEND;TZID=Europe/London:20261121T210000
 SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
 LOCATION:Tate Modern\, Bankside\, London SE1 9TG
-DESCRIPTION:Second half of the run. Closes Mon 3 May 2027. Full run 11 Jun 2026 to 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
 URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -143,6 +1342,457 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: Julio Le Parc: Light. Colour. Action. closes 3 May
 TRIGGER;VALUE=DATE-TIME:20261121T090000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261122@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261122T100000
+DTEND;TZID=Europe/London:20261122T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261128@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261128T100000
+DTEND;TZID=Europe/London:20261128T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261129@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261129T100000
+DTEND;TZID=Europe/London:20261129T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261205@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261205T100000
+DTEND;TZID=Europe/London:20261205T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261206T100000
+DTEND;TZID=Europe/London:20261206T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261212@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261212T100000
+DTEND;TZID=Europe/London:20261212T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261213T100000
+DTEND;TZID=Europe/London:20261213T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261219@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261219T100000
+DTEND;TZID=Europe/London:20261219T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261220T100000
+DTEND;TZID=Europe/London:20261220T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20261227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261227T100000
+DTEND;TZID=Europe/London:20261227T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270102@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270102T100000
+DTEND;TZID=Europe/London:20270102T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270103@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270109@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270109T100000
+DTEND;TZID=Europe/London:20270109T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270110@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270110T100000
+DTEND;TZID=Europe/London:20270110T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270116@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270116T100000
+DTEND;TZID=Europe/London:20270116T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270117@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270117T100000
+DTEND;TZID=Europe/London:20270117T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270123@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270123T100000
+DTEND;TZID=Europe/London:20270123T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270124@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270124T100000
+DTEND;TZID=Europe/London:20270124T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270130@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270130T100000
+DTEND;TZID=Europe/London:20270130T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270131@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270131T100000
+DTEND;TZID=Europe/London:20270131T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270206T100000
+DTEND;TZID=Europe/London:20270206T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270207@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270207T100000
+DTEND;TZID=Europe/London:20270207T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270213T100000
+DTEND;TZID=Europe/London:20270213T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270214@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270214T100000
+DTEND;TZID=Europe/London:20270214T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270220T100000
+DTEND;TZID=Europe/London:20270220T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270221@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270221T100000
+DTEND;TZID=Europe/London:20270221T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270227T100000
+DTEND;TZID=Europe/London:20270227T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270228@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270228T100000
+DTEND;TZID=Europe/London:20270228T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270306@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270306T100000
+DTEND;TZID=Europe/London:20270306T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270307@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270307T100000
+DTEND;TZID=Europe/London:20270307T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270313@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270313T100000
+DTEND;TZID=Europe/London:20270313T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270314@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270314T100000
+DTEND;TZID=Europe/London:20270314T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270320@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270320T100000
+DTEND;TZID=Europe/London:20270320T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270321@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270321T100000
+DTEND;TZID=Europe/London:20270321T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270327@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270327T100000
+DTEND;TZID=Europe/London:20270327T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270328@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270328T100000
+DTEND;TZID=Europe/London:20270328T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270403@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270403T100000
+DTEND;TZID=Europe/London:20270403T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270404@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270404T100000
+DTEND;TZID=Europe/London:20270404T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270410@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270410T100000
+DTEND;TZID=Europe/London:20270410T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270411@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270411T100000
+DTEND;TZID=Europe/London:20270411T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270417@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270417T100000
+DTEND;TZID=Europe/London:20270417T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: Julio Le Parc: Light. Colour. Action. closes 3 May
@@ -150,13 +1800,68 @@ TRIGGER;VALUE=DATE-TIME:20270412T080000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:add-z3mwrk1apuvfeg881g9j-close@exhibition-countdown
-DTSTAMP:20261108T095047Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20270111
+UID:tm-leparc-20270418@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270418T100000
+DTEND;TZID=Europe/London:20270418T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270424@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270424T100000
+DTEND;TZID=Europe/London:20270424T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270425@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270425T100000
+DTEND;TZID=Europe/London:20270425T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270501@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270501T100000
+DTEND;TZID=Europe/London:20270501T210000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-21:00. Closes Mon 3 May 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-leparc-20270502@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270502T100000
+DTEND;TZID=Europe/London:20270502T180000
+SUMMARY:Julio Le Parc: Light. Colour. Action. (Tate Modern)
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG
+DESCRIPTION:Open 10:00-18:00. Closes Mon 3 May 2027. Last weekend.\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260829@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260829T100000
+DTEND;TZID=Europe/London:20260829T220000
 SUMMARY:The Music is Black: A British Story (V&A East)
-LOCATION:V&A East
-DESCRIPTION:Second half of the run. Closes Sun 10 Jan 2027. Full run 18 Apr 2026 to 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
 URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -164,6 +1869,369 @@ ACTION:DISPLAY
 DESCRIPTION:Halfway point: The Music is Black: A British Story closes 10 Jan
 TRIGGER;VALUE=DATE-TIME:20260829T080000Z
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260830@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260830T100000
+DTEND;TZID=Europe/London:20260830T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260905@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260905T100000
+DTEND;TZID=Europe/London:20260905T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260906@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260906T100000
+DTEND;TZID=Europe/London:20260906T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260912@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260912T100000
+DTEND;TZID=Europe/London:20260912T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260913@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260913T100000
+DTEND;TZID=Europe/London:20260913T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260919@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260919T100000
+DTEND;TZID=Europe/London:20260919T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260920@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260920T100000
+DTEND;TZID=Europe/London:20260920T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260926@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260926T100000
+DTEND;TZID=Europe/London:20260926T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20260927@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20260927T100000
+DTEND;TZID=Europe/London:20260927T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261003@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261003T100000
+DTEND;TZID=Europe/London:20261003T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261004@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261004T100000
+DTEND;TZID=Europe/London:20261004T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261010@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261010T100000
+DTEND;TZID=Europe/London:20261010T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261011@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261011T100000
+DTEND;TZID=Europe/London:20261011T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261017@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261017T100000
+DTEND;TZID=Europe/London:20261017T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261018@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261018T100000
+DTEND;TZID=Europe/London:20261018T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261024@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261024T100000
+DTEND;TZID=Europe/London:20261024T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261025@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261025T100000
+DTEND;TZID=Europe/London:20261025T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261031@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261031T100000
+DTEND;TZID=Europe/London:20261031T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261101@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261101T100000
+DTEND;TZID=Europe/London:20261101T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261107@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261107T100000
+DTEND;TZID=Europe/London:20261107T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261108@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261108T100000
+DTEND;TZID=Europe/London:20261108T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261114@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261114T100000
+DTEND;TZID=Europe/London:20261114T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261115@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261115T100000
+DTEND;TZID=Europe/London:20261115T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261121@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261121T100000
+DTEND;TZID=Europe/London:20261121T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261122@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261122T100000
+DTEND;TZID=Europe/London:20261122T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261128@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261128T100000
+DTEND;TZID=Europe/London:20261128T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261129@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261129T100000
+DTEND;TZID=Europe/London:20261129T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261205@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261205T100000
+DTEND;TZID=Europe/London:20261205T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261206@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261206T100000
+DTEND;TZID=Europe/London:20261206T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261212@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261212T100000
+DTEND;TZID=Europe/London:20261212T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261213@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261213T100000
+DTEND;TZID=Europe/London:20261213T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261219@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261219T100000
+DTEND;TZID=Europe/London:20261219T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261220@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261220T100000
+DTEND;TZID=Europe/London:20261220T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:3 weeks left: The Music is Black: A British Story closes 10 Jan
@@ -171,8 +2239,63 @@ TRIGGER;VALUE=DATE-TIME:20261220T090000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20261227@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20261227T100000
+DTEND;TZID=Europe/London:20261227T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20270102@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270102T100000
+DTEND;TZID=Europe/London:20270102T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20270103@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270103T100000
+DTEND;TZID=Europe/London:20270103T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20270109@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270109T100000
+DTEND;TZID=Europe/London:20270109T220000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-22:00. Closes Sun 10 Jan 2027. Last weekend.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:add-z3mwrk1apuvfeg881g9j-20270110@exhibition-countdown
+DTSTAMP:20261108T115230Z
+DTSTART;TZID=Europe/London:20270110T100000
+DTEND;TZID=Europe/London:20270110T180000
+SUMMARY:The Music is Black: A British Story (V&A East)
+LOCATION:V&A East Museum\, Queen Elizabeth Olympic Park\, London E20
+DESCRIPTION:Open 10:00-18:00. Closes Sun 10 Jan 2027. Last weekend.\nhttps://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+URL:https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-britain-20261114@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261114T090000
 DTEND;TZID=Europe/London:20261114T100000
 SUMMARY:Members Hours: The 90s + Vanessa Bell & Duncan Grant
@@ -182,7 +2305,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261114@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261114T090000
 DTEND;TZID=Europe/London:20261114T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -192,7 +2315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-britain-20261115@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261115T090000
 DTEND;TZID=Europe/London:20261115T100000
 SUMMARY:Members Hours: The 90s + Vanessa Bell & Duncan Grant
@@ -202,7 +2325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261115@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261115T090000
 DTEND;TZID=Europe/London:20261115T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -212,7 +2335,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-britain-20261121@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261121T090000
 DTEND;TZID=Europe/London:20261121T100000
 SUMMARY:Members Hours: The 90s + Vanessa Bell & Duncan Grant
@@ -222,7 +2345,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261121@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261121T090000
 DTEND;TZID=Europe/London:20261121T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -232,7 +2355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-britain-20261122@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261122T090000
 DTEND;TZID=Europe/London:20261122T100000
 SUMMARY:Members Hours: The 90s + Vanessa Bell & Duncan Grant
@@ -242,7 +2365,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261122@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261122T090000
 DTEND;TZID=Europe/London:20261122T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -252,7 +2375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261128@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261128T090000
 DTEND;TZID=Europe/London:20261128T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -262,7 +2385,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261129@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261129T090000
 DTEND;TZID=Europe/London:20261129T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -272,7 +2395,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261205@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261205T090000
 DTEND;TZID=Europe/London:20261205T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -282,7 +2405,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261206@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261206T090000
 DTEND;TZID=Europe/London:20261206T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -292,7 +2415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261212@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261212T090000
 DTEND;TZID=Europe/London:20261212T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -302,7 +2425,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261213@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261213T090000
 DTEND;TZID=Europe/London:20261213T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -312,7 +2435,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261219@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261219T090000
 DTEND;TZID=Europe/London:20261219T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -322,7 +2445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261220@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261220T090000
 DTEND;TZID=Europe/London:20261220T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -332,7 +2455,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20261227@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20261227T090000
 DTEND;TZID=Europe/London:20261227T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -342,7 +2465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20270102@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20270102T090000
 DTEND;TZID=Europe/London:20270102T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -352,7 +2475,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-modern-20270103@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20270103T090000
 DTEND;TZID=Europe/London:20270103T100000
 SUMMARY:Members Hours: Frida: The Making of an Icon + Light and Magic: The Birth of Art Photography
@@ -362,7 +2485,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-britain-20270213@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20270213T090000
 DTEND;TZID=Europe/London:20270213T100000
 SUMMARY:Members Hours: Vanessa Bell & Duncan Grant
@@ -372,7 +2495,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-britain-20270214@exhibition-countdown
-DTSTAMP:20261108T095047Z
+DTSTAMP:20261108T115230Z
 DTSTART;TZID=Europe/London:20270214T090000
 DTEND;TZID=Europe/London:20270214T100000
 SUMMARY:Members Hours: Vanessa Bell & Duncan Grant
