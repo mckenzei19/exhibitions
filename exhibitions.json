@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-08",
+  "checked": "2026-11-09",
   "scope": "Paid exhibitions at Tate Modern and Tate Britain only; free displays and commissions excluded.",
   "exhibitions": [
     {
@@ -14,7 +14,7 @@
       "id": "tm-mendieta",
       "title": "Ana Mendieta",
       "venue": "Tate Modern",
-      "start": "2026-07-15",
+      "start": "2026-07-14",
       "end": "2027-01-17",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta"
     },
@@ -46,9 +46,33 @@
       "id": "tm-leparc",
       "title": "Julio Le Parc: Light. Colour. Action.",
       "venue": "Tate Modern",
-      "start": "2026-06-11",
+      "start": "2026-06-08",
       "end": "2027-05-03",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "id": "tm-monet",
+      "title": "Monet: Painting Time",
+      "venue": "Tate Modern",
+      "start": "2027-02-25",
+      "end": "2027-06-27",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/monet"
+    },
+    {
+      "id": "tb-boyce",
+      "title": "Sonia Boyce",
+      "venue": "Tate Britain",
+      "start": "2027-03-26",
+      "end": "2027-08-22",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/sonia-boyce"
+    },
+    {
+      "id": "tm-ink",
+      "title": "Ink",
+      "venue": "Tate Modern",
+      "start": "2027-04-22",
+      "end": "2027-08-30",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/ink"
     }
   ],
   "members_hours": [
@@ -238,8 +262,7 @@
       "end": "10:00",
       "venue": "Tate Modern",
       "exhibitions": [
-        "tm-frida",
-        "tm-light"
+        "tm-frida"
       ]
     },
     {
@@ -258,6 +281,348 @@
       "venue": "Tate Britain",
       "exhibitions": [
         "tb-bellgrant"
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-02-28",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-07",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-13",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-14",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-20",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-21",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-27",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-boyce"
+      ]
+    },
+    {
+      "date": "2027-03-27",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-03-28",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Britain",
+      "exhibitions": [
+        "tb-boyce"
+      ]
+    },
+    {
+      "date": "2027-03-28",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-03",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-04",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-10",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-11",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-17",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-18",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-24",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-04-25",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-01",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-02",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-08",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-09",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-15",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-16",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-22",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-23",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-29",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-05-30",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-05",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-06",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-12",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-13",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-19",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-20",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-26",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
+      ]
+    },
+    {
+      "date": "2027-06-27",
+      "start": "09:00",
+      "end": "10:00",
+      "venue": "Tate Modern",
+      "exhibitions": [
+        "tm-monet"
       ]
     }
   ],
